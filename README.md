@@ -1,4 +1,3 @@
-```markdown
 # EEE3032 – Computer Vision and Pattern Recognition
 ## Coursework Assignment: Visual Search of an Image Collection
 
